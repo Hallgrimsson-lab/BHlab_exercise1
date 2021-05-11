@@ -6,6 +6,16 @@ A short exercise to clone this repo and modify the file locally
 
 ***
 
+## Tasks for everyone
+
+- [x] Create a GitHub account
+- [ ] Clone this GitHub repository, make changes and push your commit to GitHub
+- [ ] Create your own repository
+- [ ] Make changes in your repo, and push your commits to GitHub
+- [ ] Fork a repo (e.g. this one), and open a pull request
+
+<br>
+
 ## git key commands:
 
 Only do this once, the first time you need to access this repository. This will clone the repository so you can access it locally
