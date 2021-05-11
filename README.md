@@ -30,6 +30,8 @@ $ ls -la
 
 <br>
 
+This gives an overview of the local working directory and the staging area. You will see whether there are "Untracked files", any staged changes, whether your local repo is up to date with the remote, etc.
+
 ```{r}
 $ git status 
 ```
