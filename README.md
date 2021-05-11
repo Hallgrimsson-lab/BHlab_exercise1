@@ -4,7 +4,9 @@ A short exercise to clone this repo and modify the file locally
 
 ***
 
-### git key commands:
+## git key commands:
+
+<img width="600" alt="git_instructions" src="https://github.com/marta-vidalgarcia/BHlab_exercise1/blob/master/git.jpeg">
 
 Only do this once, the first time you need to access this repository. This will clone the repository so you can access it locally
 
