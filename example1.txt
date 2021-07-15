@@ -1,9 +1,2 @@
-What are your goals for this year?
-<<<<<<< HEAD
-survive, repeat for 2021
-=======
-Get the vaccine
->>>>>>> c89e0fb1370a6702ed2ed9742dea47b0085ef6e8
-
 
 Survive?
